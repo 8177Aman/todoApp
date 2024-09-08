@@ -17,8 +17,7 @@ Karam is a Todo app built using React where you can create, edit, delete todos, 
 - **🔤 React Icons**: Provides popular icons for use in the app.
 
 ## 🚀 Installation
-
-Follow these steps to get the project up and running on your local machine:
+Copy or clone this repository in your project folder and follow these steps to get the project up and running on your local machine:
 
 1. Install **npm**, **npx**, **node**, and **react**.
 
@@ -27,8 +26,6 @@ Follow these steps to get the project up and running on your local machine:
    ```bash
    npx create-react-app my-project
    cd my-project
-
-
 
 3. Install React Icons:
    ```bash
@@ -53,7 +50,9 @@ Follow these steps to get the project up and running on your local machine:
 - ✏️ Edit or 🗑️ delete tasks using the buttons provided next to each todo item.
 - 👁️ Hide or show completed todos by toggling the checkbox..
 - 💾 Your todos are stored locally and will be available the next time you open the app.
-## 📝 License
-- This project is licensed under the MIT License.
 
-Make sure to replace the `git clone` URL with the actual link to your GitHub repository. This `README.md` covers installation steps, features, and usage.
+## 🤝 Feedback
+   Feel free to use the app and provide feedback! You can reach me at 
+   - 📩amanyerwarkar2001@gmail.com.
+
+   If you'd like to contribute, push to a new branch and please do not make changes on the main branch.
